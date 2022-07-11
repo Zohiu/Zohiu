@@ -8,7 +8,6 @@
   <div align="center">
     <img align="center" width="300" src="flower.gif">
     <img align="center" width="300" src="flower.gif">
-    <img align="center" width="300" src="flower.gif">
   </div>
 
   <div align="center">
@@ -18,7 +17,6 @@
   </div>
 
   <div align="center">
-    <img align="center" width="300" src="flower.gif">
     <img align="center" width="300" src="flower.gif">
     <img align="center" width="300" src="flower.gif">
   </div>

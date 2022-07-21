@@ -6,19 +6,7 @@
 
 <h1 align="center">
   <div align="center">
-    <img align="center" width="300" src="flower.gif">
-    <img align="center" width="300" src="flower.gif">
-  </div>
-
-  <div align="center">
-    <img align="top" width="225" src="heartpfp.png">
     <img width="300" src="name_a.svg">
-    <img align="top" width="225" src="heartpfp.png">
-  </div>
-
-  <div align="center">
-    <img align="center" width="300" src="flower.gif">
-    <img align="center" width="300" src="flower.gif">
   </div>
   <br>
 </h1>

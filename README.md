@@ -5,10 +5,7 @@
 <br>
 
 <h1 align="center">
-  <div align="center">
     <img width="300" src="name_a.svg">
-  </div>
-  <br>
 </h1>
 <br>
 

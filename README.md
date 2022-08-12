@@ -23,28 +23,6 @@
 
 </div>
 
-<div align="center">
-  
-  <div align="center">I don't only do one thing though. I'm also trying my luck with music on <a href="https://www.youtube.com/channel/UCMiR4h60k6DJPrWgvTY6soQ">YouTube.</a></div>
-  <p align="center">And now my basic copy-paste info stuff:</p>  
-  
-  <div align="center">My music is on:</div>
-  <div align="center">➜ <a href="https://open.spotify.com/artist/79sP0BbLIwBFAa5lxoBxYv?si=o4-JhUZjQEi3-387mWb6zw">Spotify</a></div>
-  <div align="center">➜ <a href="https://soundcloud.com/zohiu">Soundcloud</a></div>
-  <div align="center">➜ <a href="https://www.youtube.com/channel/UCMiR4h60k6DJPrWgvTY6soQ">YouTube</a></div>
-  <br>
-  <div align="center">Social Media:</div>
-  <div align="center">➜ <a href="https://discord.gg/5Avgcgrp95">Discord invite</a></div>
-  <div align="center">➜ <a href="https://twitter.com/Zohiu3">Twitter profile</a></div>
-  <br>
-  <div align="center">Contact:</div>
-  <div align="center">➜ Discord: Zohiu#5577</div>
-  <div align="center">➜ E-Mail: zohiu3@gmail.com</div>
-  
-  <br>
-
-</div>
-
 <br>
 
 <div align="center">

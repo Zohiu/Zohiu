@@ -14,11 +14,12 @@
   <p align="center">Hey! I'm Zohiu.</p>
 
   <p align="center">I'm from germany and like coding (which is probably obvious as I use github)</p>
-  <p align="center">The programming languages I use are:</p>
   
   <div align="center">
     <a href="https://zohiu.de/">My Website</a>
   </div>
+  
+  <br>
 
 </div>
 

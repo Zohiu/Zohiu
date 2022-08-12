@@ -17,33 +17,8 @@
   <p align="center">The programming languages I use are:</p>
   
   <div align="center">
-    <a href="https://www.python.org/">Python</a>
-    (General stuff)
+    <a href="https://zohiu.de/">My Website</a>
   </div>
-  
-  <div align="center">
-    <a href="https://www.java.com/">Java</a>
-    (Minecraft Plugins)
-  </div>
-  
-  <div align="center">
-    <a href="https://github.com/SkriptLang/Skript">Skript</a>
-    (Minecraft "Plugins")
-  </div>
-  
-  <div align="center">
-    <a href="https://www.arduino.cc/">C++</a>
-    (Arduino stuff)
-  </div>
-  
-  <div align="center">
-    <a href="https://unity.com/">C#</a>
-    (Unity games)
-  </div>
-  
-  <br>
-  <p align="center">Well and stuff like HTML and Markdown, but I don't count those.</p>  
-  <br>
 
 </div>
 
